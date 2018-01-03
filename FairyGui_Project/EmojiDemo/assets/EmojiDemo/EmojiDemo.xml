@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <graph id="n4_r19w" name="n4" xy="0,0" size="1080,1920" type="rect"/>
+    <richtext id="n0_qlgt" name="richtext" xy="0,424" size="1080,76" fontSize="30" autoSize="height" text="富文本显示&#xA;&#xA;"/>
+    <graph id="n2_qlgt" name="n2" xy="12,604" size="854,44" group="n3_qlgt" type="rect"/>
+    <text id="n1_qlgt" name="input" xy="17,604" size="846,39" group="n3_qlgt" input="true" fontSize="30" autoSize="height" text="输入框"/>
+    <group id="n3_qlgt" name="n3" xy="11,603" size="854,44"/>
+  </displayList>
+</component>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="53tntyl0" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="r19w0" name="EmojiDemo.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="EmojiDemo" path="C:\UnityProgram\MyTestProgram\EmojiDemo\Assets\Resources\UI\EmojiDemo"/>
+</packageDescription>
